@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxwelldlehmann
+- 👀 I’m interested in helping the government run a little smoother with software
+- 🌱 I’m currently learning golang
